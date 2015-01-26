@@ -1,0 +1,12 @@
+<!-- Author: Andrey Kobzar -->
+<!-- Date:   9.25.2013 -->
+<!-- File Name: colors.xml -->
+
+<resources>
+    <color name="electric_blue">#007B86</color>
+    <color name="very_orange">#F44900</color>
+    <color name="gray_blue">#667A8C</color>
+    <color name="bright_blue">#0000ff</color>
+    <color name="happy_blue">#7bd8d8</color>
+    <color name="red">#cc0000</color>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VeloSteer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rake">Fork offset (rake):</string>
+    <string name="aToC">Axle-to-crown:</string>
+    <string name="head">Headtube angle:</string>
+    <string name="headtubeBottom">Headtube-axle height:</string>
+    <string name="wheel">Wheel diameter:</string>
+    <string name="trail">Trail</string>
+    <string name="mm">mm</string>
+    <string name="in">in.</string>
+    <string name="go">Calculate!</string>
+    <string name="wheelbase">Wheelbase:</string>
+    <string name="bbH">Bottom bracket height:</string>
+    <string name="bbL">Bottom bracket length:</string>
+
+
+</resources>
